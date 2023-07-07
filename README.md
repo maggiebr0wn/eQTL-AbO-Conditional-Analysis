@@ -11,7 +11,7 @@ OBJECTIVE:
 ----------
 The objective of this pipeline is to perform "all-but-one" conditional analysis by isolating sequential eQTL peaks and reducing effects of linkage disequilibirum (LD).
 
-<img src="https://github.com/maggiebr0wn/eQTL-AbO-Conditional-Analysis/blob/main/lzplot_visual.png" width="1000" height="450">
+<img src="https://github.com/maggiebr0wn/eQTL-AbO-Conditional-Analysis/blob/main/lzplot_visual.png" width="1000" height="400">
 <img src="https://github.com/mbr0wn1995/eQTL-AbO-Conditional-Analysis/blob/main/fsw_vs_abo_visual.jpg" width="800" height="450">
 
 -------------------
