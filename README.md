@@ -1,4 +1,4 @@
-# AbO-Conditional-Analysis
+# eQTL-AbO-Conditional-Analysis
 
 <img src="https://github.com/maggiebr0wn/eQTL-AbO-Conditional-Analysis/blob/main/lzplot_visual.png" width="1000" height="400">
 
